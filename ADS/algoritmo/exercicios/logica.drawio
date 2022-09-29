@@ -1,0 +1,178 @@
+<mxfile host="65bd71144e">
+    <diagram id="bWI4ZTpNzA7B8PCsZMZA" name="Page-1">
+        <mxGraphModel dx="721" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;1. Calcular e mostrar a área&amp;nbsp; de um triângulo. Sabe-se que: Área = (base * altura)/2.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="15" y="10" width="540" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Início" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="50" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="base, altura" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="40" width="110" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Área &amp;lt;- (base * altura)/2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="45" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Área" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="385" y="50" width="67.5" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="53.75" width="48.75" height="32.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="452.5" y="70" as="sourcePoint"/>
+                        <mxPoint x="495" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="345" y="69.5" as="sourcePoint"/>
+                        <mxPoint x="385" y="69.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="205" y="69.5" as="sourcePoint"/>
+                        <mxPoint x="245" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="69.5" as="sourcePoint"/>
+                        <mxPoint x="115" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;2. Calcular a idade de uma pessoa e verificar se ela está habilitada a votar. Voto obrigatório&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Verdana&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;para pessoas com idade entre 18 e 70 anos.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="115" width="570" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Início" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="28.119999999999997" y="170" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="ano de nascimento" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="103.12" y="160" width="110" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="ano corrente - ano de nascimento" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="243.12" y="165" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Você deve votar esse ano" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="238.12" y="232.5" width="105" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="414.38" y="370" width="48.75" height="32.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="435.37" y="243.75" as="sourcePoint"/>
+                        <mxPoint x="343.12" y="244" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="435.87" y="244"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="343.12" y="189.49999999999994" as="sourcePoint"/>
+                        <mxPoint x="383.12" y="189.49999999999994" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="203.12" y="189.49999999999994" as="sourcePoint"/>
+                        <mxPoint x="243.12" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="88.12" y="189.49999999999994" as="sourcePoint"/>
+                        <mxPoint x="113.12" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Idade &amp;gt;= 18 ou idade &amp;lt;= 70" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="385" y="136.25" width="107.5" height="107.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;verdana&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(42 , 42 , 42) ; display: inline ; float: none&quot;&gt;verdadeiro&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="364" y="240" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="443.5" y="243.75" as="sourcePoint"/>
+                        <mxPoint x="530" y="243.75" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="444" y="244"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;verdana&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(42 , 42 , 42) ; display: inline ; float: none&quot;&gt;falso&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="240" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Você não poderá votar esse ano" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="220" width="105" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="278.40999999999997" y="300" as="sourcePoint"/>
+                        <mxPoint x="414" y="382.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="278" y="382.5"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="17">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570.41" y="287.5" as="sourcePoint"/>
+                        <mxPoint x="480" y="370" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="570" y="386"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;3. Defina um algoritimo que liste números de 1 a 100 e classifique-os como par ou ímpar.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="435" width="560" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Início" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="48.129999999999995" y="490" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Ímpar" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="518.75" width="67.5" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="640" width="48.75" height="32.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="537.5" y="570" as="sourcePoint"/>
+                        <mxPoint x="580" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="205" y="540" as="sourcePoint"/>
+                        <mxPoint x="290" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="108.13" y="509.49999999999994" as="sourcePoint"/>
+                        <mxPoint x="133.13" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;i % 2 == 0&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130.62" y="456.25" width="107.5" height="107.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="553.75" as="sourcePoint"/>
+                        <mxPoint x="80" y="553.75" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="Ímpar" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="541.25" width="67.5" height="45" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
